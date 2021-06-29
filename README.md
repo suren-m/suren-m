@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Suren
-- 🔭 I currently work at Microsoft (UK) and focus on cloud-native development with Kubernetes and CNCF eco-system
+- ☸  I currently work at Microsoft (UK) and focus on cloud-native development with Kubernetes and CNCF eco-system
 - 🦀 I have also been learning / doing Rust for over a year 
-- ⚒  Overall, I have 9+ years of professional experience and have shipped software written using C#, Python and JS
+- 🛠  Overall, I have 9+ years of professional experience and have shipped software written using C#, Python and JS
 - ☁  Have worked extensively on Azure and AWS cloud platforms
 - 👀 You will find an assortment of my personal projects and Infrastructure automation code here
 - 📫 You can reach me on [LinkedIn](https://uk.linkedin.com/in/suren-mohandass)
