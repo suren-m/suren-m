@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Suren 
 - 🔭 I have 9+ years of engineering experience and I currently work on Cloud-Native Development and Architecture around Kubernetes and CNCF eco-system
 - 🦀 I have also been learning / doing Rust for over a year 
-- 👀 You can find an assortment of my personal projects and Infrastructure auotmation code here
+- 👀 You will find an assortment of my personal projects and Infrastructure auotmation code here
 - 📫 You can reach me on [LinkedIn](https://uk.linkedin.com/in/suren-mohandass)
 
 
