@@ -1,12 +1,10 @@
-- 👋 Hi, I’m Suren 
-- 🔭 I have 9+ years of engineering experience and I currently work on Cloud-Native Development and Architecture around Kubernetes and CNCF eco-system
+- 👋 Hi, I’m Suren
+- 🔭 I currently work at Microsoft (UK) and focus on cloud-native development with Kubernetes and CNCF eco-system
 - 🦀 I have also been learning / doing Rust for over a year 
+- ⚒  Overall, I have 9+ years of professional experience and have shipped software written using C#, Python and JS
+- ☁  Have worked extensively on Azure and AWS cloud platforms
 - 👀 You will find an assortment of my personal projects and Infrastructure auotmation code here
 - 📫 You can reach me on [LinkedIn](https://uk.linkedin.com/in/suren-mohandass)
-
-
-
-
 
 <!--
 **suren-m/suren-m** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
