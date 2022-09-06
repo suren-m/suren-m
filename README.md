@@ -1,3 +1,5 @@
+![suren's stats](https://github-readme-stats.vercel.app/api?username=suren-m&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)
+
 - 👋 Hi, I’m Suren
 - ☸  I currently work at Microsoft (UK) and focus on cloud-native development with Kubernetes and CNCF eco-system
 - 🦀 I have also been learning / doing Rust for over a year 
