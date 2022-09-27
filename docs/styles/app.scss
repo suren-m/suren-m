@@ -118,6 +118,7 @@ body {
     max-width: $max-width;
     background: $inner;
     color: black;
+    margin: 0 auto;
 }
 
 ul {
@@ -148,7 +149,8 @@ ul li {
         'pic info info contact'
         'pic info info contact';
     gap: 0;
-    padding: 1em;
+    margin: 0 1em 0 1em;
+    padding: 1em 0 1em 0;
 
     .pic {
         grid-area: pic;
